@@ -1,5 +1,12 @@
-React Redux Starter Kit
-=======================
+Big Bro
+=====
+it is just project for learning react redux usage on some custom project
+
+
+information in other section from https://github.com/davezuko/react-redux-starter-kit
+
+# React Redux Starter Kit
+
 
 [![Join the chat at https://gitter.im/davezuko/react-redux-starter-kit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/davezuko/react-redux-starter-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/davezuko/react-redux-starter-kit.svg?branch=master)](https://travis-ci.org/davezuko/react-redux-starter-kit?branch=master)
